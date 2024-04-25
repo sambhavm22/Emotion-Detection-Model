@@ -1,23 +1,32 @@
 ****Emotion Detection CNN Model****
 
 **Introduction**
+
 This project aims to classify the emotion on a person's face into one of seven categories, using deep convolutional neural networks. The model is trained on the FER-2013 dataset which was published on International Conference on Machine Learning (ICML). This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgusted, fearful, happy, neutral, sad and surprised.
 
 **Dependencies**
+
 Python 3, OpenCV, Tensorflow, sklearn, numpy, pandas and matplotlib
 
 **Dataset Sources**
 Kaggle - https://www.kaggle.com/datasets/msambare/fer2013
 
 **Basic Usage**
+
 The repository is currently compatible with tensorflow-2.0 and makes use of the Keras API using the tensorflow.keras library.
 
 **Image Distribution for each class**
 
+
 <img width="983" alt="Screenshot 2024-04-25 at 11 49 12 AM" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/d8f9b43e-5d0a-4cd5-917c-a0c2f8b7267b">
+
+
+
 
 **Result**
 The best result come with ResNet50 Model that was able to detect the face emotion with a goof accuracy. With 22,779,527 trainable parameters, the test accuracy reached 60.8% in 50 epochs.
+
+
 
 **ResNet50 Model Architecture**
 
