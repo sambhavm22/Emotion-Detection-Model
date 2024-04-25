@@ -23,6 +23,9 @@ The repository is currently compatible with tensorflow-2.0 and makes use of the 
 
 
 
+Since the image distribution for each category with imbalanced , I have use class weights.
+
+
 
 **Result**
 
