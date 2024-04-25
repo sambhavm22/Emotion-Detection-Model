@@ -24,6 +24,10 @@ The repository is currently compatible with tensorflow-2.0 and makes use of the 
 
 
 **Result**
+
+
+
+
 The best result come with ResNet50 Model that was able to detect the face emotion with a goof accuracy. With 22,779,527 trainable parameters, the test accuracy reached 60.8% in 50 epochs.
 
 
