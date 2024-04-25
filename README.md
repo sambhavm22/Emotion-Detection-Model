@@ -25,10 +25,13 @@ The best result come with ResNet50 Model that was able to detect the face emotio
 
 
 
-**Accuracy and Validation Graph**
+**Accuracy and Validation Graph of the best Model**
 
 
 <img width="888" alt="Screenshot 2024-04-25 at 11 54 13 AM" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/f6d2f45a-ee3c-49b7-961a-fa8b29137150">
+
+
+**Confustion Matrix with the best Model**
 
 <img width="802" alt="Screenshot 2024-04-25 at 11 54 33 AM" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/d2c836e3-178c-45a9-873a-a3cedf24d477">
 
@@ -45,7 +48,7 @@ The best result come with ResNet50 Model that was able to detect the face emotio
 
 4. The emotion with maximum score is displayed on the screen.
 
-<img width="860" alt="Screenshot 2024-04-25 at 11 57 09 AM" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/b1bf306a-7f62-4876-94cc-0e9d4f8e8b91">
+
 
 
 
