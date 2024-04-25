@@ -17,8 +17,9 @@ The repository is currently compatible with tensorflow-2.0 and makes use of the 
 
 **Image Distribution for each class**
 
-
 <img width="983" alt="Screenshot 2024-04-25 at 11 49 12 AM" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/d8f9b43e-5d0a-4cd5-917c-a0c2f8b7267b">
+
+
 
 
 
@@ -41,16 +42,27 @@ The best result come with ResNet50 Model that was able to detect the face emotio
 **Accuracy and Validation Graph of the best Model**
 
 
+
+
+
 <img width="888" alt="Screenshot 2024-04-25 at 11 54 13 AM" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/f6d2f45a-ee3c-49b7-961a-fa8b29137150">
 
 
+
+
 **Confustion Matrix with the best Model**
+
+
 
 <img width="802" alt="Screenshot 2024-04-25 at 11 54 33 AM" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/d2c836e3-178c-45a9-873a-a3cedf24d477">
 
 
 
+
 **Algorithm**
+
+
+
 
 
 1. First, train the data on CNN model from scratch, then with Image Augmentation, then with VGG16 Model and finally with ResNet50 Model. With ResNet50 Model got a decent accuracy.
