@@ -19,7 +19,7 @@ The repository is currently compatible with tensorflow-2.0 and makes use of the 
 **Result**
 The best result come with ResNet50 Model that was able to detect the face emotion with a goof accuracy. With 22,779,527 trainable parameters, the test accuracy reached 60.8% in 50 epochs.
 
-**ResNet50 Model Architecture **
+**ResNet50 Model Architecture**
 
 <img width="960" alt="Screenshot 2024-04-25 at 12 37 25 PM" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/74b64f65-5f14-4ac7-b5f7-2a3c01ef8202">
 
@@ -32,14 +32,20 @@ The best result come with ResNet50 Model that was able to detect the face emotio
 
 <img width="802" alt="Screenshot 2024-04-25 at 11 54 33 AM" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/d2c836e3-178c-45a9-873a-a3cedf24d477">
 
+
+
 **Algorithm**
-First, train the data on CNN model, then with Image Augmentation, then with VGG16 Model and finally with ResNet50 Model.
 
-The region of image containing the face is resized to 48x48 and is passed as input to the CNN.
 
-The network outputs a list of softmax scores for the seven classes of emotions.
+1. First, train the data on CNN model from scratch, then with Image Augmentation, then with VGG16 Model and finally with ResNet50 Model. With ResNet50 Model got a decent accuracy.
 
-The emotion with maximum score is displayed on the screen.<img width="860" alt="Screenshot 2024-04-25 at 11 57 09 AM" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/b1bf306a-7f62-4876-94cc-0e9d4f8e8b91">
+2. The region of image containing the face is resized to 48x48 and is passed as input to the CNN.
+
+3. The network outputs a list of softmax scores for the seven classes of emotions.
+
+4. The emotion with maximum score is displayed on the screen.
+
+<img width="860" alt="Screenshot 2024-04-25 at 11 57 09 AM" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/b1bf306a-7f62-4876-94cc-0e9d4f8e8b91">
 
 
 
