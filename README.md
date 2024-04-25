@@ -20,11 +20,13 @@ The repository is currently compatible with tensorflow-2.0 and makes use of the 
 The best result come with ResNet50 Model that was able to detect the face emotion with a goof accuracy. With 22,779,527 trainable parameters, the test accuracy reached 60.8% in 50 epochs.
 
 ResNet50 Model Architecture 
-<img width="467" alt="image" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/4bb1752e-508f-47aa-aed8-c7fa415664d8"> 
+
+<img width="467" alt="image" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/5a916135-0603-4c8b-9682-752bcb808ab8">
+
 
 **Model Summary**
 
-<img width="467" alt="image" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/5a916135-0603-4c8b-9682-752bcb808ab8">
+<img width="467" alt="image" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/4bb1752e-508f-47aa-aed8-c7fa415664d8"> 
 
 
 **Accuracy and Validation Graph**
