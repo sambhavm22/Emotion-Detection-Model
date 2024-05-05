@@ -15,6 +15,12 @@ Kaggle - https://www.kaggle.com/datasets/msambare/fer2013
 
 The repository is currently compatible with tensorflow-2.0 and makes use of the Keras API using the tensorflow.keras library.
 
+**Workflow Diagram**
+
+
+<img width="904" alt="Emotion_detection_WorkFlow" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/523d2851-a002-4a5d-ae54-0345f368731a">
+
+
 **Image Distribution for each class**
 
 <img width="983" alt="Screenshot 2024-04-25 at 11 49 12 AM" src="https://github.com/sambhavm22/Emotion-Detection-Model/assets/58766591/d8f9b43e-5d0a-4cd5-917c-a0c2f8b7267b">
