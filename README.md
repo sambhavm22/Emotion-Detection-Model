@@ -79,4 +79,5 @@ The best result come with ResNet50 Model that was able to detect the face emotio
 
 
 
-
+**For more info visit**
+https://sambhavm22.medium.com/emotion-detection-model-0819ce26bdad
